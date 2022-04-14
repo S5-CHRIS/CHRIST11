@@ -1,9 +1,10 @@
 ---
 name: Content bug
-about: "Use this template to notify us of a content bug that needs fixing"
-labels: "needs-triage"
-assignees:
-title: "Content bug: <TITLE OF PROBLEM>"
+about: Use this template to notify us of a content bug that needs fixing
+title: 'Content bug: <TITLE OF PROBLEM>'
+labels: needs-triage
+assignees: ''
+
 ---
 
 ## What page(s) did you find the problem on?
